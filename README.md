@@ -1,2 +1,2 @@
 # pdf-Generation
-using JavScript, React, HTML and css
+using JavScript, HTML and css
